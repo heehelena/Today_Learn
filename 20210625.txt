@@ -1,0 +1,11 @@
+June 25, 2021
+
+Goals
+- matplotlib
+- pandas
+- Team Project review
+
+To-do list
+- GitHub update
+- Study(Jump to Python) - Chapter 5(Class, Module)
+- Review of Kaggle Notebook(Titanic)
