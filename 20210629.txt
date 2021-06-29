@@ -1,0 +1,7 @@
+Jun 29, 2021
+
+Today's goal
+- matplotlib 
+- seaborn
+- pandas
+- python review
