@@ -1,0 +1,6 @@
+June 30, 2021
+
+Today's goal
+- Plotly
+- Review of Basic Statistics
+- Web Crawling Practice
