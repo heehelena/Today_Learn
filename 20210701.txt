@@ -1,0 +1,6 @@
+July 1, 2021
+
+Today's goal
+- konlpy Basic
+- text analysis & Wordcloud
+- Web Crawling Practice
