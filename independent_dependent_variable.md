@@ -20,7 +20,6 @@
 
 Reference:
 
-타니아이 히로키 저, 츠지 신고 감수, 권기태 옮김, 「누구나 파이썬 통계분석」, 한빛아카데미, 2020
-
+* 타니아이 히로키 저, 츠지 신고 감수, 권기태 옮김, 「누구나 파이썬 통계분석」, 한빛아카데미, 2020
 * 정보통신기술용어해설 http://www.ktword.co.kr/abbr_view.php?m_temp1=1916&id=1421&nav=2
 * 제1부 통계학의 기초와 자료 분석 http://www.kmooc.kr/assets/courseware/e17442a0ad9c55202e4bd
