@@ -1,0 +1,8 @@
+July 2, 2021
+
+* 팀별 프로젝트
+* 과제 확인
+
+Today's goal
+- 통계 용어 정리
+- Pandas review
