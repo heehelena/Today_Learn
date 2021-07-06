@@ -1,0 +1,7 @@
+July 6, 2021
+
+Today's goal
+
+- Washington D.C Bike Sharing System(Python)
+- Data cleaning and Visualization
+- Team Project
