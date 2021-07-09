@@ -3,7 +3,6 @@
 기계학습에서 패턴 인식, 자료 분석을 위한 지도 학습 모델로 결정 경계(Decision Boundary)를 정의하기 위한 모델
 
 - 결정 경계(Decision Boundary) : 데이터가 가지고 있는 두 종류 이상의 다른 속성을 분류하는 기준
-  - 2차원(line), 3차원(plane), 3차원 초과 다차원(hyperplane)
   - 서로 다른 속성(feature)에 속하는 데이터로부터 가장 멀리 떨어져 있는 경계이자 데이터를 가장 잘 설명하는 경계(best hyperplane)
 
 - 마진(margin) : 결정 경계와 서포트 벡터(support vector) 사이의 거리
