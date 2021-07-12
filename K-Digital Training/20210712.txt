@@ -1,0 +1,6 @@
+July 12, 2021
+
+Today's goal
+- Review of Python
+- Dacon competition
+- Data preprocessing
