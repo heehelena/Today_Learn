@@ -1,0 +1,6 @@
+July 13, 2021
+
+Today's goal
+- Review of Python Library (Pandas, Matplotlib, Seaborn)
+- Review of Python Basics
+- Introduction to Machine Learning
