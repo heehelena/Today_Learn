@@ -1,0 +1,7 @@
+July 14, 2021
+
+Today's goal
+
+- Review of KNN
+- Regression(linear, Ridge, Lasso)
+- Dacon competition
