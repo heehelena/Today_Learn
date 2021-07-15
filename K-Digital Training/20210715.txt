@@ -1,0 +1,6 @@
+July 15, 2021
+
+Today's goal
+- Decesion Tree
+- Random Forest
+- Dacon
