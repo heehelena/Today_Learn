@@ -1,0 +1,7 @@
+July 16, 2021
+
+Today's goal
+- Decision Tree
+- Ensemble (Random Forest)
+- Dacon
+- Study
