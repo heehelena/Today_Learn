@@ -1,0 +1,7 @@
+July 19, 2021
+
+Today's goal
+- Ensemble RandomForest
+- Decision Tree
+- Gradient Boosting
+- Dacon competition
