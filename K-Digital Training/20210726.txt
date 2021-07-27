@@ -1,0 +1,45 @@
+FinanceDataReader로 KRX 전체 종목 수집
+ - pd.read_csv : csv file 불러오기
+ - filename.to_csv('filename.csv', index=False) : csv file로 저장 (행 이름 index를 내보내지 않으려면 False 사용)
+ * 파일명에 날짜 넣어 저장하기(팀원분에게 배운 거!)
+	day = time.strftime('%Y-%m-%d-%H-%M-%S', time.localtime()) -> 시간 함수로 날짜 표기(연-월-일-시-분-초)
+	PATH = './Output/' -> 저장 경로 지정
+	file_name = f'{day}_.csv'  -> f 문자열 사용하여 file name에 날짜 삽입
+	dataframe.to_csv(f'{PATH}{file_name}', index=False) -> 경로와 file name 받아서 csv file 저장
+	
+Pandas에서 자료 확인하기
+ - .shape : 행과 열의 수 보기
+ - .head() : 상단 행 일부 가져오기
+ - .tail() : 하단 행 일부 가져오기
+ - .sample() : 무작위로 선정한 일부 행 가져오기
+ - head, tail, sample의 기본값은 5행
+ 
+DataFrame
+ - 2차원 행렬 구조
+ - .info() : 요약값 보기
+ - .describe() : 기술통계값 보기
+ - .nunique() : 중복을 제외한 unique 값의 개수 세기
+ - index : 행 index 값 보기
+ - values : 행에 해당하는 값만 보기
+ - columns : 열 이름 확인하기
+ - Series는 1차원 벡터 구조라는 점에서 DataFrame과 다름
+ 
+색인 기능
+ - [컬럼명]
+ - 컬럼명.loc[행]
+ - 컬럼명.loc[행, 열]
+ - 컬럼명.loc[조건식, 열]
+ 
+DataFrame 활용
+ - 열(column) 인덱싱, 슬라이싱
+ - 행(index) 인덱싱, 슬라이싱
+ - 행, 열 인덱싱
+ - sort_values : values 정렬
+ - 조건식(&,|, < 등) 사용하기
+ 
+빈도수 구하기
+ - series.value_counts() : 변수 하나
+ - pd.crosstab() : 변수 두 개
+ 
+groupby : crosstab보다 다양한 연산을 적용할 수 있음
+pivot_table : 행, 열을 사용하여 데이터를 보여줌
