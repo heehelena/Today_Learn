@@ -1,0 +1,5 @@
+August 2, 2021
+
+- One-hot encoding
+- Machine learning validation
+- Team project
