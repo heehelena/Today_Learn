@@ -1,0 +1,5 @@
+August 3, 2021
+
+- Machine learning validation
+- Kaggle Notebook study
+- Team project
