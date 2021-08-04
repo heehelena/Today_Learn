@@ -1,0 +1,7 @@
+August 3, 2021
+
+Today's goal
+- Kaggle Seminar
+ * Preprocessing(null, scaling)
+ * Classification
+ * Model Validation
