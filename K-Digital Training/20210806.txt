@@ -1,0 +1,5 @@
+August 6, 2021
+
+Today's goal
+- Team Project
+- RandomForest, lightGBM, Catboost
