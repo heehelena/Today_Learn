@@ -1,0 +1,7 @@
+August 9, 2021
+
+Today's goal
+- Imshow
+- numpy
+- Deep Learning basic practice
+- Bike Sharing Demand
