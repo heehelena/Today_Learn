@@ -1,0 +1,7 @@
+August 10, 2021
+
+Today's goal
+- Keras library
+- Deep Learning basic practice
+- Bike Sharing Demand
+- Titanic dataset
