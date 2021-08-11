@@ -1,0 +1,6 @@
+August 11, 2021
+
+Today's goal
+- Deep Learning basic practice
+- Early stopping
+- CNN
