@@ -1,0 +1,7 @@
+August 12, 2021
+
+Today's goal
+- CNN
+  - padding
+- Deep Learning : Cat VS. Dog
+- Deep Learning review
